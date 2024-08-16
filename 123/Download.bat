@@ -9,7 +9,6 @@ choco install vcredist-all --no-progress
 curl -s -L -o C:\Users\Public\Desktop\Telegram.exe https://telegram.org/dl/desktop/win64
 curl -s -L -o C:\Users\Public\Desktop\Winrar.exe https://www.rarlab.com/rar/winrar-x64-621.exe
 curl -s -L -o wall.bat https://gitlab.com/chamod12/changewallpaper-win10/-/raw/main/wall.bat
-curl -s -L -o C:\Users\Public\Desktop\Нова папка1.zip https://github.com/dfsaasd917/afk/raw/main/123/%D0%9D%D0%BE%D0%B2%D0%B0%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B01.zip
 powershell -Command "Invoke-WebRequest 'https://github.com/chieunhatnang/VM-QuickConfig/releases/download/1.6.1/VMQuickConfig.exe' -OutFile 'C:\Users\Public\Desktop\VMQuickConfig.exe'"
 C:\Users\Public\Desktop\Telegram.exe /VERYSILENT /NORESTART
 del C:\Users\Public\Desktop\Telegram.exe
